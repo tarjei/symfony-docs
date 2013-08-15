@@ -811,6 +811,8 @@ Learn more
 * :doc:`/cookbook/testing/insulating_clients`
 * :doc:`/cookbook/testing/profiling`
 * :doc:`/cookbook/testing/bootstrap`
+* :doc:`/cookbook/form/unit_testing`
+
 
 .. _`DemoControllerTest`: https://github.com/symfony/symfony-standard/blob/master/src/Acme/DemoBundle/Tests/Controller/DemoControllerTest.php
 .. _`$_SERVER`: http://php.net/manual/en/reserved.variables.server.php
